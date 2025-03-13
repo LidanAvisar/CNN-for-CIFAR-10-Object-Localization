@@ -1,8 +1,6 @@
-# CNN-for-CIFAR-10-Object-Localization
+# Convolutional Neural Network - CIFAR-10 + Localization
 A deep learning project implementing a Convolutional Neural Network (CNN) for CIFAR-10 image classification and object localization. The model is trained using PyTorch to classify images and predict bounding box coordinates, combining classification and regression tasks for enhanced visual understanding
 
-
-# Convolutional Neural Network - CIFAR-10 + Localization
 
 ## Overview
 This project implements a CNN-based classifier for the CIFAR-10 dataset and includes a localization task formulated as a regression problem. The focus is on training a convolutional network using PyTorch, analyzing its performance, and extending it to predict object bounding boxes.
